@@ -32,7 +32,6 @@ A clean, professional, and responsive front-end template designed for financial 
 ## 🌐 Live Preview
 
 **[Click here to view the website](https://frannmk.github.io/financial-services-site/)**  
-> _Note: If it’s not yet deployed, you can enable GitHub Pages in the repository settings._
 
 ---
 
