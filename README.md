@@ -1,4 +1,4 @@
-# 💼 Financial Services Website Template
+7# 💼 Financial Services Website Template
 
 A clean, professional, and responsive front-end template designed for financial institutions, accounting firms, investment consultants, and similar businesses. This template includes pre-built pages with a modern layout, ideal for launching a finance-related site quickly.
 
